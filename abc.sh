@@ -1,3 +1,1 @@
-uname -a
-ls -al
-hostname
+ls 
